@@ -1,5 +1,5 @@
 {
-  "name": "xstate",
+  "name": "@deepstreamtech/xstate",
   "version": "4.25.0",
   "description": "Finite State Machines and Statecharts for the Modern Web.",
   "main": "lib/index.js",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidkpiano/xstate.git"
+    "url": "git+https://github.com/deepstreamtech/xstate.git"
   },
   "author": "David Khourshid <davidkpiano@gmail.com>",
   "license": "MIT",

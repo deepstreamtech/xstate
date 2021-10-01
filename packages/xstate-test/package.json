@@ -1,5 +1,5 @@
 {
-  "name": "@xstate/test",
+  "name": "@deepstreamtech/xstate-test",
   "version": "0.4.2",
   "description": "XState test utilities",
   "keywords": [
@@ -32,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/davidkpiano/xstate.git"
+    "url": "git+ssh://git@github.com/deepstreamtech/xstate.git"
   },
   "scripts": {
     "clean": "rm -rf dist lib es tsconfig.tsbuildinfo",
@@ -59,7 +59,7 @@
     "xstate": "*"
   },
   "dependencies": {
-    "@xstate/graph": "^1.1.0",
+    "@deepstreamtech/xstate-graph": "^1.1.0",
     "chalk": "^2.4.2"
   }
 }
